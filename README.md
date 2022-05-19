@@ -3,7 +3,7 @@ The objective of this project is to create a simple shell.
 
 ## Screenshot
 
-![minishell screenshot]([https://github.com/thomasbrq/minishell/blob/main/readme_img/Screen%20Shot%202022-05-19%20at%2010.34.44%20AM.png?raw=true])
+![minishell screenshot](https://github.com/thomasbrq/minishell/blob/main/readme_img/Screen%20Shot%202022-05-19%20at%2010.34.44%20AM.png?raw=true)
 
 ## How to use
 ![Compile with macos](https://badgen.net/badge/build/macOS/grey?icon=apple)
